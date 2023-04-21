@@ -1,4 +1,4 @@
-streamlib
+streamlit
 markdown-it-py==2.2.0
 pandas
 gspread
