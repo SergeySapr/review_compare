@@ -55,14 +55,12 @@ ds = datasets[d]
 industries = ['hotel', 'cinema','hotel','restaurant']
 industry = industries[d]
 
-
-
 st.title('Which of these reviews you find more helpful?')
-st.write('This is a review for a ', industry)
+#st.write('This is a review for a ', industry)
 
 #get review 1
 i = np.random.randint(low = 0, high = 999)
-st.write('Chose review number ', i)
+#st.write('Chose review number ', i)
 left_review_id = ds.loc[i]['review_id']
 left_review_text = ds.loc[i]['text']
 #st.write(left_review_id)
@@ -71,7 +69,7 @@ left_review_text = ds.loc[i]['text']
 
 #get review 2
 j = np.random.randint(low = 0, high = 999)
-st.write('Chose review number ', j)
+#st.write('Chose review number ', j)
 right_review_id = ds.loc[j]['review_id']
 right_review_text = ds.loc[j]['text']
 
