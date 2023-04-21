@@ -1,4 +1,4 @@
 markdown-it-py==2.2.0
 pandas
 gspread
-google.oauth2.service_account
+google.oauth2 
