@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gatech-group-project",
+  "private_key_id": "2ea6ba5df261c8ac0c326dc76daa41542e2ca839",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCg6sKWVxDZ16+l\nqaHxKENM1AOd9s/yrxuypBv/fegWrf7Kdnk1m9qBsd9jdNQiUUo9/i4OMkq2IO+R\nMNatifOG3kH+K9oxPoCYyUI4nbAZy6jgi0Z6i7OkvY4XRj0GsgC/Yiy+fFcxJBu+\n3x1KFBV8AHVmEMyb81qoCK5V2K0ZEj4Buc1QzjEbPsWqmT0eHiohpiFgrmZuS02U\n/V4/1qzNm0RJEPD3u76MVtAIlueob2rNoxmJ1uTAzmC5YkDci9Ry7hcsvMcGyDTo\n+ryVMEer7MIII6uwmPmoMXIg2Zc5hAnIWq+zMGI1iuEBdvTKrNdyvbjTF8qe6yOw\nerGTZ4zDAgMBAAECggEAExTzoTdO4L5Cbm8orHu9S1GC4kr/ysP4EV2Dkm8ARBw6\n8BBPfEtwhFuu5VDXzP/9wU8wb++Hy4QpVHrJokePEMmvYrAZjihewH9xMlyEovJz\nIrlxUJvbYCg4PstN9krKaud97dK51jJ1ddNoWj36dDtrsIBCeyXG9NEet0Bb+nJu\ns1dC3Uk2mpEaZdBC/qWNgntlRHbEGj1+N4U/o1CE4HZTyOl+bg5eb7C5gOEw8KVU\n6zVAV09nHPpyVX8Jd4Q/xVEgPrHEI2NpEtOmM1byRhj5hL4mdk1Kp7s2Ms89EknP\nbiYBU/Kr9+ftqYsX9Ki8b46v8sbbdiQFAOSYB7eM9QKBgQDM/bHtHTz/eggzFeJO\ncKgBhaWr7ru2EmWyJP921XUSCQyEByy9s5crBUwJ3dSn8hjc1ah8glfEWTfe1IY4\n2HLdrqxnpMuFnXSlp4vVWd3XUFZDSZ2igA3gmHK5OVdkKSUijwm6pp47QrJIrksm\n4bJfOSZaCE6sz45z96PAEXYHhwKBgQDI9XjfaMfUdrZvCluPh+hLKchNhoCDfki2\nEdkSI0Xxw+iWz1SRGLvCOCB+AbELD8e0T39MMLsD/z7oRq6CHA4NEL+qfzqrdaDS\n2+K48z4YG5NYbUT0VvGtXE3R2zlFtSUVtG9UWT2lJH3Kj4bekeBcYVjMhPUVrHY6\nMR65Xbjn5QKBgCWnO/V392pd+f+YN3d9Df8pk2LfeS9adb+hOCOV1ek4LEpcHwXB\nZTULxgnR62vl9lcqD8a/EmwIj1Co7PaoG4FIwnZPOOsUHwcGnZLU7QDNyuqVLRVa\nPDJTDk+jjr/hJucQKxNT46CzAZiEG13K+z6uerLy77Cid2IpzLRNAMclAoGBAJZM\nwfKV8588ioXSQVjAVUSiI2WYS1YNhWRnROsD5rRDyhnBR4ad8Q/52pNjwH59dues\n7ZCWgckjhnFDLBGz2e57sF5cegzzFS2ft5qMksyFE1b3orL8tBTtDGcAh31TVkE9\nimaTuD9jY5G0dzLP9/Yf+MI+Tu++5U3wnwIUzs7hAoGAdblFsUWG4r9nhKvjhHmQ\n+WubxpneEsG5geKJdO5vFL2SphH7bNn3v+Nh1m6Zonzkh7LFv7Ob5akowQxXrsVN\nvYG01x2hyddzDbVXJ/7ubLPidpks0xygMlels6+PNMiS5P6YGUuIpK5L/HwJKV7c\nxyAbQ72bqmGai3VoOCE8Nck=\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-viz-account@gatech-group-project.iam.gserviceaccount.com",
+  "client_id": "101236267919658764487",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-viz-account%40gatech-group-project.iam.gserviceaccount.com"
+}
